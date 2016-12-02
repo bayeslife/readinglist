@@ -1,6 +1,11 @@
 # Books I have read with comments and notes.
 
 
+The Master Algorithm
+Perdo Domingos
+Describes machine learning in terms of 5 separate approaches.
+Very enjoyable
+
 The Number Sense
 Stanislas Dehaene
 

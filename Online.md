@@ -13,6 +13,8 @@ https://medium.com/javascript-scene/10-interview-questions-every-javascript-deve
 
 ## Worthwhile content
 
+[Description of the blockchain algorithm](https://github.com/ethereum/wiki/wiki/White-Paper)
+
 [see Data data Dichotomy Rethinking The Way We Treat Data And Services](https://www.confluent.io/blog/data-dichotomy-rethinking-the-way-we-treat-data-and-services/)
 Interesting view from a number of viewpoints.  Value of database vs api services.  Takes the view to replicate data from master to consumer.
 

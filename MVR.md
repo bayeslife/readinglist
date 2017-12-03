@@ -9,3 +9,6 @@ Interesting view from a number of viewpoints.  Value of database vs api services
 
 
 [see Cypress](https://www.cypress.io/)  This is a nice way to develop web application tests.  Rather than using web driver, the test framework runs in the browser itself. One limitiation is that the web application must be able to run in an iframe.
+
+
+[NPM Dependencies](https://david-dm.org/)

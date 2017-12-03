@@ -8,6 +8,10 @@
 
 [see MVR](./MVR.md)
 
+## Identifying Worthwhile Activities
+
+[see Worthwhile](./WorthwhileActivities.md)
+
 ## Books
 Books I have read with comments and notes.
 

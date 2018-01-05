@@ -6,7 +6,7 @@ How to identify activity that is worthwhile to invest time, effort and money.
 The business justification makes sense. Dont be afraid to question the value of the offering.
 If it doesnt appear to make sense to develop the capability then this needs to be surface or the work is at risk.
 
-The risk here is other can have evidence that I dont appreciate or have information that I misinterpret.
+The risk here is others can have evidence that I dont appreciate or have information that I misinterpret.
 
 ## Cost reduction
 

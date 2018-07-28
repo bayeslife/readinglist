@@ -8,6 +8,10 @@
 
 [see MVR](./MVR.md)
 
+## Useful References
+
+[see Useful References](./UsefulReferences.md)
+
 ## Identifying Worthwhile Activities
 
 [see Worthwhile](./WorthwhileActivities.md)

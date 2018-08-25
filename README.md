@@ -17,7 +17,7 @@
 [see Worthwhile](./WorthwhileActivities.md)
 
 ## Books
-	Books I have read with comments and notes.
+Books I have read with comments and notes.
 
 #### The Master Algorithm
 	Perdo Domingos

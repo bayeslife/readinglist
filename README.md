@@ -16,6 +16,10 @@
 
 [see Worthwhile](./WorthwhileActivities.md)
 
+## Influential Video Content
+
+[Bayes Theory : Jaynes Logic of Science](https://www.youtube.com/watch?v=P6P1rjJuD_M)  A video series by Audrey Clayburn going through concepts from the book the Logic of Science (which I should read)
+
 ## Books
 Books I have read with comments and notes.
 
@@ -119,17 +123,17 @@ Books I have read with comments and notes.
 
 
 ##### Stanislas Dehaene's The Number Sense.
-	
-##### The Empoty Raincoat : 
+
+##### The Empoty Raincoat :
 	Charles Handy
 
-##### How to measure anything: 
+##### How to measure anything:
 	Douglas Hubbard
 	Partially Read
 	Good book what to re-read
 	About Monte Carlo simulation, economic value of information.
 
-#####  The failure of Risk Management 
+#####  The failure of Risk Management
 	Douglas Hubbard
 	Ok book but relatively critical rather than constructive.
 	Discusses merts and drawbacks with Black Swan arguments
@@ -151,13 +155,13 @@ Books I have read with comments and notes.
 ##### Everything is obvious : once you know the answer / Duncan J. Watts.
 	Theme that human beings need evidence to be really obvious before we can see it.
 
-##### Nudge : improving decisions about health, wealth, and happiness 
+##### Nudge : improving decisions about health, wealth, and happiness
 	Richard H. Thaler, Cass R. Sunstein.
 
-##### Against the Gods 
+##### Against the Gods
 	Peter Bernstein
 
-##### The art of strategy : a game theorist's guide to success in business & life 
+##### The art of strategy : a game theorist's guide to success in business & life
 	Avinash K. Dixit, Barry J. Nalebuff.
 
 ##### Risk Intelligence : How to live with uncertainty :

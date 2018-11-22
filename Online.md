@@ -10,7 +10,7 @@ There is lots of great commentary on the multiple aspects of javascript as a lan
 
 ## Interesting
 
-[History of Software Architectures](https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/)
+[Explicit Software Architectures](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)  How many concepts from different architectures have been brought together.  Good review of software architecture history and current state.
 
 Another interesting viewpoint of obsolence of relational DB.
 [Turning Database Inside Out](https://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza/)

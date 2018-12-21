@@ -10,6 +10,8 @@ There is lots of great commentary on the multiple aspects of javascript as a lan
 
 ## Interesting
 
+[Kanban and Work Flow](https://leankit.com/learn/kanban/lean-flow-metrics/)
+
 [Explicit Software Architectures](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)  How many concepts from different architectures have been brought together.  Good review of software architecture history and current state.
 
 Another interesting viewpoint of obsolence of relational DB.

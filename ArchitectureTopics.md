@@ -15,6 +15,11 @@ ngrok.io xip.io
 
 ## Messaging Approaches
 
--RabbitMQ - Traditional message broker
--Kafka - focus on speed and reliability. Streaming only.  Complexity high
--NATS - focus on simplicity. Has streaming but not highly available streaming as yet
+- RabbitMQ - Traditional message broker
+- Kafka - focus on speed and reliability. Streaming only.  Complexity high
+- NATS - focus on simplicity. Has streaming but not highly available streaming as yet
+
+## Statistics Libraries
+
+- [Simple Statistics](https://simplestatistics.org)
+- [Math.js](http://mathjs.org/)

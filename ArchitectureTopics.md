@@ -27,3 +27,8 @@ ngrok.io xip.io
 ## Front End Components
 
 [Vuetify](https://vuetify.com)
+
+
+## Site Hosting Options
+netlify.com
+

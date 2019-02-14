@@ -32,3 +32,8 @@ ngrok.io xip.io
 ## Site Hosting Options
 netlify.com
 
+## Email Related Services
+
+- mailinator.com - Public Email
+- mailtrap.io - SMTP Server useful for dev/staging environments so email isnt sent to customers.
+

@@ -21,6 +21,7 @@ There is lots of great commentary on the multiple aspects of javascript as a lan
 Another interesting viewpoint of obsolence of relational DB.
 [Turning Database Inside Out](https://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza/)
 
+[Kafka Rationale](https://www.confluent.io/blog/data-dichotomy-rethinking-the-way-we-treat-data-and-services/)
 
 As part of learning about Kafka and Consul this visualization was very informative
 [Raft Consensus](http://thesecretlivesofdata.com/raft/)

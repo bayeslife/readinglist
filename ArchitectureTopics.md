@@ -37,3 +37,8 @@ netlify.com
 - mailinator.com - Public Email
 - mailtrap.io - SMTP Server useful for dev/staging environments so email isnt sent to customers.
 
+## Architecture Frameworks
+
+- TMForum
+- Archimate
+- [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)

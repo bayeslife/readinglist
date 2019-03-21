@@ -31,6 +31,7 @@ ngrok.io xip.io
 
 ## Site Hosting Options
 netlify.com
+gitlab.com
 
 ## Email Related Services
 
@@ -42,3 +43,17 @@ netlify.com
 - TMForum
 - Archimate
 - [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+
+
+### Javascript Test Frameworks
+- Mocha
+- Jest
+- Ava
+
+
+### Full Stack Application Templates Approachs
+- Yeoman : a bit dated now
+- React: react has its own templating  though its CLI
+- Vue : Vuew has its own templates through its CLI
+- [Mern](https://mern.io) : Havent yet tried these
+

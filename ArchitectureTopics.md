@@ -57,3 +57,10 @@ gitlab.com
 - Vue : Vuew has its own templates through its CLI
 - [Mern](https://mern.io) : Havent yet tried these
 
+
+### Log Analytics
+- Splunk
+- Graylog
+- ElasticSearch/Kinana
+- FluentD
+

@@ -30,8 +30,9 @@ ngrok.io xip.io
 
 
 ## Site Hosting Options
-netlify.com
-gitlab.com
+- netlify.com
+- gitlab.com
+- https://atomist.com/
 
 ## Email Related Services
 
@@ -63,4 +64,8 @@ gitlab.com
 - Graylog
 - ElasticSearch/Kinana
 - FluentD
+
+## Notebook Paradigms
+- ObservableHQ
+- Jupyter
 

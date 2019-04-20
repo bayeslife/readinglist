@@ -11,7 +11,8 @@ funnel.io
 
 ## Surface private services to the internet
 
-ngrok.io xip.io
+- ngrok.io 
+- xip.io
 
 ## Messaging Approaches
 
@@ -24,10 +25,16 @@ ngrok.io xip.io
 - [Simple Statistics](https://simplestatistics.org)
 - [Math.js](http://mathjs.org/)
 
+## Front End Framework
+
+- React
+- Vue
+
+- [Comparison](https://medium.com/javascript-scene/top-javascript-frameworks-and-topics-to-learn-in-2019-b4142f38df20)
+
 ## Front End Components
 
 [Vuetify](https://vuetify.com)
-
 
 ## Site Hosting Options
 - netlify.com
@@ -46,18 +53,21 @@ ngrok.io xip.io
 - [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 - [Disciplined Agile](http://disciplinedagiledelivery.com/the-dad-role-of-architecture-owner/) - How architect fits into agile
 
+## SDLC Concerns
+
+- [12factor.net](https://12factor.net/) - Describes the characteristics of contemporary solutions.
+
 ### Javascript Test Frameworks
+- [Riteway](https://github.com/ericelliott/riteway)
 - Mocha
 - Jest
 - Ava
-
 
 ### Full Stack Application Templates Approachs
 - Yeoman : a bit dated now
 - React: react has its own templating  though its CLI
 - Vue : Vuew has its own templates through its CLI
 - [Mern](https://mern.io) : Havent yet tried these
-
 
 ### Log Analytics
 - Splunk

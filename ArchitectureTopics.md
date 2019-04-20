@@ -4,16 +4,6 @@
 
 [OpenId and OAuth](https://www.youtube.com/watch?v=996OiexHze0)
 
-## Data Pipeline
-
-segment.io
-funnel.io
-
-## Surface private services to the internet
-
-- ngrok.io 
-- xip.io
-
 ## Messaging Approaches
 
 - RabbitMQ - Traditional message broker
@@ -30,7 +20,7 @@ funnel.io
 - React
 - Vue
 
-- [Comparison](https://medium.com/javascript-scene/top-javascript-frameworks-and-topics-to-learn-in-2019-b4142f38df20)
+[Comparison](https://medium.com/javascript-scene/top-javascript-frameworks-and-topics-to-learn-in-2019-b4142f38df20)
 
 ## Front End Components
 
@@ -39,7 +29,7 @@ funnel.io
 ## Site Hosting Options
 - netlify.com
 - gitlab.com
-- https://atomist.com/
+- [Atomist](https://atomist.com/) - full javascript CI/CD
 
 ## Email Related Services
 
@@ -52,6 +42,7 @@ funnel.io
 - Archimate
 - [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 - [Disciplined Agile](http://disciplinedagiledelivery.com/the-dad-role-of-architecture-owner/) - How architect fits into agile
+- [Explicit Archtecture](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
 
 ## SDLC Concerns
 
@@ -79,8 +70,18 @@ funnel.io
 - ObservableHQ
 - Jupyter
 
-
 ## Browser Based Sandbox
 
-- http://codesandbox.io
-- https://plnkr.co/ : Angular specific
+- [Code Sandbox](http://codesandbox.io)
+- [Plkr](https://plnkr.co/) : Angular specific
+- [Code Pen](https://codepen.io/)
+
+## Data Pipeline
+
+- segment.io
+- funnel.io
+
+## Surface private services to the internet
+
+- ngrok.io 
+- xip.io

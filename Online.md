@@ -10,6 +10,8 @@ There is lots of great commentary on the multiple aspects of javascript as a lan
 
 ## Interesting
 
+[ShuHaRi](https://www.martinfowler.com/bliki/ShuHaRi.html) - how to learn
+
 [State of Javascript 2018](https://2018.stateofjs.com/javascript-flavors/overview/)
 
 [Cloud Native Messaging with NATS](https://medium.com/capital-one-tech/lightweight-cloud-native-messaging-with-nats-ad730ca2becf)  Interesting comparision of kafka, rabbitmq and NATS

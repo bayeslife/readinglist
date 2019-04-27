@@ -17,3 +17,9 @@ You dont pay this 'libraritization' cost if you leave the functionality within a
 When do you make the decision that splitting some functionality out into a library has a benefit that exceeds the cost?
 
  
+## Why open source a library?
+
+In order to open source functionality it is likely there will be objections to overcome including:
+- it our customers ip
+- its our know how even if not our IP
+- why not just keep it private, its safer

@@ -10,6 +10,9 @@ There is lots of great commentary on the multiple aspects of javascript as a lan
 
 ## Interesting
 
+Why to prefer React Funtion Components over React Class components [here](https://reactjs.org/docs/hooks-intro.html)
+This presents explicit comparison, describes function components as the future.
+
 [ShuHaRi](https://www.martinfowler.com/bliki/ShuHaRi.html) - how to learn
 
 [State of Javascript 2018](https://2018.stateofjs.com/javascript-flavors/overview/)

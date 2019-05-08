@@ -1,5 +1,10 @@
 # Most Valuable Reads
 
+
+2019-05 [Overview of Bayes Logic which has interesting Bayes Diagram](https://medium.com/@aycignl/bayesian-networks-bns-bc53b29c3f66).
+![](./images/BayesLogicDiagram.png)
+
+
 2017-12-1 [Description of the blockchain algorithm](https://github.com/ethereum/wiki/wiki/White-Paper)
 
 2017-11-30 [important Javascript Concepts](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)

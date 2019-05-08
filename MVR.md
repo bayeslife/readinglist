@@ -1,6 +1,8 @@
 # Most Valuable Reads
 
 
+2019-05 [Achieving component reuse](https://medium.com/walmartlabs/how-to-achieve-reusability-with-react-components-81edeb7fb0e0) - Content from Walmart Labs on what is required to achieve reuse.
+
 2019-05 [Overview of Bayes Logic which has interesting Bayes Diagram](https://medium.com/@aycignl/bayesian-networks-bns-bc53b29c3f66).
 ![](./images/BayesLogicDiagram.png)
 

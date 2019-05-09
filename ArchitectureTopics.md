@@ -85,3 +85,11 @@
 
 - ngrok.io 
 - xip.io
+
+## Browser Error Aggregation
+
+- Rollbar
+- Loggly
+- Sentry
+- AirBrake
+- ErrorCeption

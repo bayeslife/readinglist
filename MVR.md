@@ -1,5 +1,6 @@
 # Most Valuable Reads
 
+2019-05 [Red-Green-Refactor](https://www.youtube.com/watch?v=EZ05e7EMOLM) - This has been a breath of fresh air as it address how to minimize writing tests but get the benefits of TDD.
 
 2019-05 [Achieving component reuse](https://medium.com/walmartlabs/how-to-achieve-reusability-with-react-components-81edeb7fb0e0) - Content from Walmart Labs on what is required to achieve reuse.
 

@@ -1,5 +1,10 @@
 # Topics that I should write about
 
+
+## The technique for reading from the Azure Event Hub
+
+The pattern for interacting with Azure Event Hub…read in batches, buffer, retrying indefinitely,  use an offset.
+
 ## When to create a library?
 
 When you write software you are generally trying to deliver some service to end users and you are likely to achieve this through deployment of a set of micro services which provide the end user service.

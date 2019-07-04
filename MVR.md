@@ -1,5 +1,7 @@
 # Most Valuable Reads
 
+2019-06 [Explore, Expand, Exploit](https://www.youtube.com/watch?v=FlJN6_4yI2A) - This discusses the need for different measures of success at different stages in a product life cycle. In explore you need lots of attempts...whereas in exploit you are looking for incremental improvements.
+ 
 2019-05 [Red-Green-Refactor](https://www.youtube.com/watch?v=EZ05e7EMOLM) - This has been a breath of fresh air as it address how to minimize writing tests but get the benefits of TDD.
 
 2019-05 [Achieving component reuse](https://medium.com/walmartlabs/how-to-achieve-reusability-with-react-components-81edeb7fb0e0) - Content from Walmart Labs on what is required to achieve reuse.

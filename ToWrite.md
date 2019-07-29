@@ -1,5 +1,27 @@
 # Topics that I should write about
 
+## A stencil of icons for stream processing
+
+A set of icons for stream processing
+
+## How separate can Authorization Management be from identity mgt and service delivery?
+
+YOu have a service which you do or maybe dont control.  You want to provide it to authorized users so it has some specific context when they use it.
+
+Users should be able to choose their identity providers...as its their identity.
+Service Delivery should be able to choose their Authorization providers...as they want certain service level.
+
+Authorization should be a pillar of management independent of identity mgt and service delivery.
+I should be able to 
+- have my end users in N different identity provides (Google, Azure AD, Facbook, local db, ...)
+- have my app resources at N different end points
+Then manage
+- user accesses protected resource gets redirected to Authorization server
+    - Authorization Server 
+        - request user for their identity provider and redirects there with some context
+        - Authorization Server then starts process to Authorize person
+            - could be request to resource owner
+        - When Authorization is granted take the user back to the resource with appropriate access token
 
 ## The technique for reading from the Azure Event Hub
 

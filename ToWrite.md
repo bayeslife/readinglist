@@ -1,5 +1,28 @@
 # Topics that I should write about
 
+## Cheap Quality
+
+Quality is an aspiration for most teams building software.
+However attainment of quality can be an expensive goal.  Hiring test staff, designing test cases, executing tests are all time consuming activities.
+
+The goal of quality software is especially difficult to attain when attempting to develop software quickly and for specific project targets.
+Code developed for a single purpose is likely to have constraints which make it difficult to use in other contexts from that originally encounted.
+
+This realization identifies what is generally meant when we identify software as quallity.  We generally mean software that is successfully used in a number of different contexts.
+
+How is quality generally attained?   I would think that quality is generally attained only when software is used in multiple contexts and has been through a number of iterations such that unnecessary constraints are removed from the solution.
+Quality can be attained when software is developed over iterations and there is some way to ensure that changes retain quality previously engineered into the solution.
+
+Do we need to give up on quality when developing software quickly?
+
+Qualty becomes less and less expensive when components are re-used frequently.   The software is exercised in different contexts and issues are feed back to improve versions to support execution in those additional environments.
+
+How does this realization inform us about developing quality software rapidly?
+
+The hypothesis is that it is important to
+- where possible break the work down into components most of which already created and largely which need to be used rather than created
+- after creating a solution be sure to break the solution down into components that solve independent problems in a relatively isolated way
+
 ## A stencil of icons for stream processing
 
 A set of icons for stream processing

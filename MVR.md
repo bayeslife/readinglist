@@ -1,6 +1,10 @@
 # Most Valuable Reads
 
+2019-07 [Systems Thinking, Theory of Constraints Applied to Mining](http://www.austmine.com.au/News/category/press-releases/radical-innovation-in-mining-management-article-2-the-information-age-myth-1-reinforcement-and-myth-2-domination) This will be a useful reference when advocating for less command/control style optimization.
+
 2019-07 [Comparing big data messaging](https://blog.scottlogic.com/2018/04/17/comparing-big-data-messaging.html#references)  Found this to be a good review of Kafka vs Cloud Streaming solutions.
+
+2019-06 [Rules Engines Guide](https://blog.waylay.io/tag/rules-engine/)
 
 2019-06 [Explore, Expand, Exploit](https://www.youtube.com/watch?v=FlJN6_4yI2A) - This discusses the need for different measures of success at different stages in a product life cycle. In explore you need lots of attempts...whereas in exploit you are looking for incremental improvements.
  

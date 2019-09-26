@@ -2,6 +2,8 @@
 
 ## Online content I follow
 
+[Machine Learning Understanding Visualization](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+
 [see DZone](https://dzone.com/)
 
 [see Eric Elliott](https://medium.com/@_ericelliott)

@@ -4,7 +4,7 @@
 
 [see Online](./Online.md)
 
-## Most Valuable Read
+## Most Valuable Readf
 
 [see MVR](./MVR.md)
 
@@ -124,7 +124,7 @@ Books I have read with comments and notes.
 
 ##### Stanislas Dehaene's The Number Sense.
 
-##### The Empoty Raincoat :
+##### The Empty Raincoat :
 	Charles Handy
 
 ##### How to measure anything:
@@ -229,3 +229,8 @@ Books I have read with comments and notes.
 ##### Risk
 	Dan Garder
 	Really enjoyed this book
+
+##### Rational Optimist
+	Matt Ridley
+	Influential book that looks at a number of common misconceptions about pollution, health, danger and shows how we are far better off than ever before.
+

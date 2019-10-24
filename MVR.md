@@ -6,6 +6,8 @@
 
 2019-06 [Rules Engines Guide](https://blog.waylay.io/tag/rules-engine/)
 
+2019-07 [Why javascript is the most popular language](https://medium.com/javascript-scene/how-popular-is-javascript-in-2019-823712f7c4b1)
+
 2019-06 [Explore, Expand, Exploit](https://www.youtube.com/watch?v=FlJN6_4yI2A) - This discusses the need for different measures of success at different stages in a product life cycle. In explore you need lots of attempts...whereas in exploit you are looking for incremental improvements.
  
 2019-05 [Red-Green-Refactor](https://www.youtube.com/watch?v=EZ05e7EMOLM) - This has been a breath of fresh air as it address how to minimize writing tests but get the benefits of TDD.

@@ -1,5 +1,7 @@
 # Most Valuable Reads
 
+2019-12 [The state of javascript](https://2019.stateofjs.com/)
+
 2019-07 [Systems Thinking, Theory of Constraints Applied to Mining](http://www.austmine.com.au/News/category/press-releases/radical-innovation-in-mining-management-article-2-the-information-age-myth-1-reinforcement-and-myth-2-domination) This will be a useful reference when advocating for less command/control style optimization.
 
 2019-07 [Comparing big data messaging](https://blog.scottlogic.com/2018/04/17/comparing-big-data-messaging.html#references)  Found this to be a good review of Kafka vs Cloud Streaming solutions.

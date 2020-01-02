@@ -1,5 +1,7 @@
 # Most Valuable Reads
 
+2020-01 [TURNING THE DATABASE INSIDE OUT WITH APACHE SAMZA](https://youtu.be/fU9hR3kiOK0)
+
 2020-01 [Idomatic React Redux](git@github.com:bayeslife/readinglist.git)
 
 2019-12 [The state of javascript](https://2019.stateofjs.com/)

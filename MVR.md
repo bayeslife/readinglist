@@ -1,4 +1,6 @@
-# Most Valuable Reads
+# Most Valuable Reads and Watches
+
+
 
 2020-01 [TURNING THE DATABASE INSIDE OUT WITH APACHE SAMZA](https://youtu.be/fU9hR3kiOK0)
 

@@ -1,6 +1,8 @@
 # Most Valuable Reads and Watches
 
+2020-03 [](https://gisgeography.com/kriging-interpolation-prediction/)
 
+2020-03 [How the economy works](https://www.youtube.com/watch?v=PHe0bXAIuk0)
 
 2020-01 [TURNING THE DATABASE INSIDE OUT WITH APACHE SAMZA](https://youtu.be/fU9hR3kiOK0)
 

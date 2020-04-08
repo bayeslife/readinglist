@@ -11,6 +11,12 @@ There is lots of great commentary on the multiple aspects of javascript as a lan
 
 ## Interesting
 
+### Learning AI
+[Data Mining with WECA]() 
+[AI for Everyone]() 
+[Animated Math](https://www.3blue1brown.com/)
+
+
 [Big Data, Fast Data](https://www.youtube.com/watch?v=tiBirKquHBo) -  Sid Anad has a number of useful high level videos at different conferences on issues related to pipelines. This one was a good overview of evolution of data analytics capabilitiy at PayPal
 
 Why to prefer React Funtion Components over React Class components [here](https://reactjs.org/docs/hooks-intro.html)

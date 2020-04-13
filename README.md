@@ -23,6 +23,23 @@
 ## Books
 Books I have read with comments and notes.
 
+#### Truth: How the Many Size to Every Stor Shape Our Reality
+	Hector Macdonald
+	
+
+#### Life 3.0
+	Max Tegmark
+	Looks at the challenges with managing AI as it expands to AGI (Artificial General Intelligence)
+		Matter originally was aiming dissipate (entropy)
+		Then life evolved which was about replicating
+		Humans are the first instance of intelligence which pursues goals of experience.
+		AGI is evolution towards intelligence leaving behind dependence on biological substrate
+	Lots of thought provoking ways of looking at problems.
+	Author started organizing which aims to oversee development of friendly AI
+	Chapter on Goals is very interesting and describes how subgoals can emerge and evolve
+	Introduced me to Auto Associative Networks...well may re-introduced them to me.
+	Uses the idea of 'substrate-independence' to describe how capability levels up
+
 #### The Master Algorithm
 	Perdo Domingos
 	Describes machine learning in terms of 5 separate approaches.

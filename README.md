@@ -25,7 +25,9 @@ Books I have read with comments and notes.
 
 #### Truth: How the Many Size to Every Stor Shape Our Reality
 	Hector Macdonald
-	
+
+#### [The Logic of Science](./pdf/TheLogicOfScience.pdf)
+	E.T. Jaynes
 
 #### Life 3.0
 	Max Tegmark

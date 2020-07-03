@@ -1,5 +1,7 @@
 # Most Valuable Reads and Watches
 
+2020-07 [Ray Dalio Principles of success](https://www.youtube.com/watch?v=B9XGUpQZY38)
+
 2020-03 [](https://gisgeography.com/kriging-interpolation-prediction/)
 
 2020-03 [How the economy works](https://www.youtube.com/watch?v=PHe0bXAIuk0)

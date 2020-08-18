@@ -1,5 +1,7 @@
 # Most Valuable Reads and Watches
 
+2020-08 [This video describes one role of a solution architect is to sell options](https://www.youtube.com/watch?v=mS0AJLqmnvQ).
+
 2020-07 [Standish group Chaos Report - Why projects succeed/fail](https://www.projectsmart.co.uk/white-papers/chaos-report.pdf)  This is a great reference when you need to indicate that delvery successful software projects is hard. 
 
 2020-07 [Ray Dalio Principles of success](https://www.youtube.com/watch?v=B9XGUpQZY38)

@@ -10,3 +10,10 @@ The Elements of Statistical Learning by Hastie, Tibshirani, and Friedman.
  
 How to Think About Algorithms
 Clean code
+
+
+Signals and Boundaries: Building Blocks for Complex Adaptive Systems
+by John H. Holland
+
+
+[Coplien 2010] Lean Architecture, by James Coplien and Gertrud Bjørnvig, July 2010, published by Wiley

@@ -1,4 +1,6 @@
 
+The undoing project by Micheal Lewis. Book about Tversky and Kahneman
+
 https://afterburner.com.au/2020/02/05/insights-the-value-of-debriefing/
 
 Peak:   secrets from the new science of expertise

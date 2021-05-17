@@ -1,5 +1,11 @@
 # Most Valuable Reads and Watches
 
+2021-05 [Modular Monoliths](https://www.youtube.com/watch?v=5OjqD-ow8GE) -  Presentation on different software architectures - layered, package by feature, hexagonal, package by code
+
+2021-03 [Data Mesh](https://martinfowler.com/articles/data-monolith-to-mesh.html)
+
+2021-01 [State of javscript 2021](https://2020.stateofjs.com/en-US/)
+
 2020-08 [This video describes one role of a solution architect is to sell options](https://www.youtube.com/watch?v=mS0AJLqmnvQ).
 
 2020-07 [Standish group Chaos Report - Why projects succeed/fail](https://www.projectsmart.co.uk/white-papers/chaos-report.pdf)  This is a great reference when you need to indicate that delvery successful software projects is hard. 

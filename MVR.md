@@ -1,5 +1,7 @@
 # Most Valuable Reads and Watches
 
+2021-05 [Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html) - Presents the idea that I had been referring to previously as a persistent log
+
 2021-05 [Functional Programming and Domain Driven Design - a match in Heaven! - Marco Emrich - KanDDDinsky](https://www.youtube.com/watch?v=56j8kLMdkyQ&t=1644s)
 
 2021-05 [Modular Monoliths](https://www.youtube.com/watch?v=5OjqD-ow8GE) -  Presentation on different software architectures - layered, package by feature, hexagonal, package by code

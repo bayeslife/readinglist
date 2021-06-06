@@ -2,6 +2,8 @@
 
 2021-06 [Nice visualization on threat model for Docker Containers](https://www.trendmicro.com/vinfo/us/security/news/security-technology/container-security-examining-potential-threats-to-the-container-environment)
 
+2021-05 [MicroLib](https://github.com/module-federation/MicroLib) - An server architecture based on module federation which looks interesting
+
 2021-05 [Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html) - Presents the idea that I had been referring to previously as a persistent log
 
 2021-05 [Functional Programming and Domain Driven Design - a match in Heaven! - Marco Emrich - KanDDDinsky](https://www.youtube.com/watch?v=56j8kLMdkyQ&t=1644s)

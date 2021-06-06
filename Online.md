@@ -49,3 +49,6 @@ This was quite a good read as it reinforces good javascript practices
 [The Unreasonable Effectiveness of Dynamic Typing for Practical Programs](https://vimeo.com/74354480) Static Typed languages will take longer to writethan solving the problem with a Dynamically Typed program.  In a lot of cases this is not helpful.  
 
 [Multi Criteria Popularity of Languages](https://githut.info/)
+
+### Bayes Rules
+[Simplifying Bayes Rule as since as odds ratio times bayes factor](https://www.youtube.com/watch?v=lG4VkPoG3ko)

@@ -23,6 +23,10 @@
 ## Books
 Books I have read with comments and notes.
 
+#### The undoing project
+	Michael Lewis
+	
+
 #### Truth: How the Many Size to Every Stor Shape Our Reality
 	Hector Macdonald
 

@@ -25,8 +25,9 @@ Books I have read with comments and notes.
 
 #### The undoing project
 	Michael Lewis
+	A book about Amost Tverksy and Daniel Kahneman.   Enjoyable and interesting the back story to their work.
+	I'm now now interesting the the Features of Similarity theory.
 	
-
 #### Truth: How the Many Size to Every Stor Shape Our Reality
 	Hector Macdonald
 

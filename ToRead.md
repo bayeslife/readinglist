@@ -1,4 +1,7 @@
 
+The paradox of choice : why more is less / Barry Schwart
+
+
 [Price Principle and the Environment](https://www.cambridge.org/core/books/price-principle-and-the-environment/2F1860B9DF74E3D1A90A858AFB81F09E) - Apparently this book describes how Bayes Rule doesnt work in a group decision making context.
 
 
@@ -6,8 +9,6 @@
 
 https://craftinginterpreters.com/contents.html - Book on writing interpreters
 
-
-The undoing project by Micheal Lewis. Book about Tversky and Kahneman
 
 https://afterburner.com.au/2020/02/05/insights-the-value-of-debriefing/
 

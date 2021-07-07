@@ -26,6 +26,9 @@ Books I have read with comments and notes.
 #### The undoing project
 	Michael Lewis
 	A book about Amost Tverksy and Daniel Kahneman.   Enjoyable and interesting the back story to their work.
+	Enjoyed recalling aspects of Prospect Theory
+		- representative heuristics
+		- Availability Heuristic
 	I'm now now interesting the the Features of Similarity theory.
 	
 #### Truth: How the Many Size to Every Stor Shape Our Reality

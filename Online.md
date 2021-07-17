@@ -36,6 +36,8 @@ Another interesting viewpoint of obsolence of relational DB.
 [Turning Database Inside Out](https://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza/)
 
 [Kafka Rationale](https://www.confluent.io/blog/data-dichotomy-rethinking-the-way-we-treat-data-and-services/)
+[Canonical Data Model as an Anti Pattern](https://teivah.medium.com/why-is-a-canonical-data-model-an-anti-pattern-441b5c4cbff8)
+
 
 As part of learning about Kafka and Consul this visualization was very informative
 [Raft Consensus](http://thesecretlivesofdata.com/raft/)

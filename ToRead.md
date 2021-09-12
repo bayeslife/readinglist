@@ -28,3 +28,6 @@ by John H. Holland
 
 
 [Coplien 2010] Lean Architecture, by James Coplien and Gertrud Bjørnvig, July 2010, published by Wiley
+
+
+[Business established Service Taxonomy (BeST) Framework: Human-Centered Alignment of Services, Products, and Actions to the Mission Paperback – January 18, 2021](https://www.amazon.com/Business-established-Service-Taxonomy-Framework/dp/B08T79MW8M)

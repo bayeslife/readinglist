@@ -1,5 +1,7 @@
 # Most Valuable Reads and Watches
 
+2021-10 [Demos over deadlines](https://medium.com/javascript-scene/demos-over-deadlines-8ed8dcdecb6) - Why software estimation is wrong and what to do about it commercially
+
 2021-06 [Nice visualization on threat model for Docker Containers](https://www.trendmicro.com/vinfo/us/security/news/security-technology/container-security-examining-potential-threats-to-the-container-environment)
 
 2021-05 [MicroLib](https://github.com/module-federation/MicroLib) - An server architecture based on module federation which looks interesting

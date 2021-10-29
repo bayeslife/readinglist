@@ -23,6 +23,22 @@
 ## Books
 Books I have read with comments and notes.
 
+#### The six secrets of intelligence
+	Craig Adams
+	A book about deduction,  induction, analogy, reality, evidence and meaning	
+	Reviews how Aristotle laid out a theory for how we think which is more fundamental than what we learn in schools today.
+	Discusses how we should argue but identifying the underlying premises in an argument as these are going to be generally where differences of opinion start.
+	Disagree with someone because
+		- they have defined what they are talking about
+		- they have changed their definition midway
+		- there argument relies upon questionable assumptions
+		- the reasoning probable rather than certain
+		- they have been fooled by a loose analogy
+	Leads towards new Modern School of Though which is 
+		Kahenman, Tvserky - power of language
+		Richard Nisbett - power of abstract learning
+		James Flynn - power of general concepts
+
 #### The undoing project
 	Michael Lewis
 	A book about Amost Tverksy and Daniel Kahneman.   Enjoyable and interesting the back story to their work.

@@ -1,4 +1,6 @@
 
+James Flynn :  How to improve your mind
+
 The paradox of choice : why more is less / Barry Schwart
 
 

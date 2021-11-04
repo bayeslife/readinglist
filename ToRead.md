@@ -1,4 +1,8 @@
 
+https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect
+
+Hans Rosling
+
 James Flynn :  How to improve your mind
 
 The paradox of choice : why more is less / Barry Schwart

@@ -23,6 +23,14 @@
 ## Books
 Books I have read with comments and notes.
 
+#### Governing The Commons
+	Elinor Ostrom 1990
+	Describes Tradegy of the Commons as a version of the Prisoners Delima.
+	Argues that Tragedy of the Commons situation can be avoided by locally self enforced contracts.
+
+#### Skin in the Game
+	Nassim Nicholas Taleb 2018
+
 #### The six secrets of intelligence
 	Craig Adams
 	A book about deduction,  induction, analogy, reality, evidence and meaning	

@@ -23,6 +23,14 @@
 ## Books
 Books I have read with comments and notes.
 
+#### Curious
+	The desire to known and why your future depends on it.
+	Ian Leslie
+	Very much enjoyed this book.
+	Introduces concept that curiosity depends on knowledge. Hard to be curious about a topic you have little knowledge of.  Easier to be curious on a topic you have some knowledge off.
+	Makes the point repeatedly how knowledge if required to gain knowledge.
+	Debunks the idea that curiosity and grit alone are sufficient to become knowledgeable.  Knowledge is also required...hence importance of basic education.
+
 #### Governing The Commons
 	Elinor Ostrom 1990
 	Describes Tradegy of the Commons as a version of the Prisoners Delima.

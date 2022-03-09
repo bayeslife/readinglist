@@ -1,6 +1,6 @@
 # Most Valuable Reads and Watches
 
-2021-10-27 []()
+2022-03-10 [Industrial Internet Reference Architecture](./pdf/IndustrialInternetReferenceArchitecture-v1.9.pdf)
 
 
 2021-10 [Demos over deadlines](https://medium.com/javascript-scene/demos-over-deadlines-8ed8dcdecb6) - Why software estimation is wrong and what to do about it commercially

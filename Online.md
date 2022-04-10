@@ -11,6 +11,8 @@ There is lots of great commentary on the multiple aspects of javascript as a lan
 
 ## Interesting
 
+[Top Data Science Cheat Sheets](https://adolfoeliazat.com/2022/01/12/top-data-science-cheatsheets-ml-dl-python-r-sql-maths-statistics/)
+
 ### Learning AI
 [Data Mining with WECA]() 
 [AI for Everyone]() 

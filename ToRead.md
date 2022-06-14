@@ -1,3 +1,7 @@
+The Myth of the Rational Voter
+Bryan Caplon
+
+
 Ten Great Ideas About Chance- 
 Skyrms, Diaconis
 

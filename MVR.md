@@ -1,5 +1,9 @@
 # Most Valuable Reads and Watches
 
+2022-08-16 [Improved Decision Making Through Situational Awareness](./pdf/Improved_Decision_Making_Through_Situational_Awareness.pdf)
+
+2022-08-15 [Data Rich...Information Poor](./pdf/Data_Rich_Information_Poor.pdf)
+
 2022-03-10 [Industrial Internet Reference Architecture](./pdf/IndustrialInternetReferenceArchitecture-v1.9.pdf)
 
 

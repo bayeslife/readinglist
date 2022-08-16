@@ -2,6 +2,8 @@
 
 ## Online content I follow
 
+[Great video explaining how bayes rules can be translated into multiplicative updates if you use odds instead of proabilitiies as tests update your available information](https://www.youtube.com/watch?v=lG4VkPoG3ko&t=519s)
+
 [Machine Learning Understanding Visualization](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 
 [see DZone](https://dzone.com/)

@@ -1,3 +1,7 @@
+Continuous Architecture
+https://learning.oreilly.com/library/view/continuous-architecture-in/9780136523796/
+
+
 The Myth of the Rational Voter
 Bryan Caplon
 

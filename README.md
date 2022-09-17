@@ -23,6 +23,10 @@
 ## Books
 Books I have read with comments and notes.
 
+#### Logic and Information
+	Delvin K
+	https://archive.org/details/logicinformation0000devl_b6a5/page/88/mode/2up?view=theater	
+
 #### Curious
 	The desire to known and why your future depends on it.
 	Ian Leslie

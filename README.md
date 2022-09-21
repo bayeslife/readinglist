@@ -23,11 +23,24 @@
 ## Books
 Books I have read with comments and notes.
 
-#### Logic and Information
+### [Information Flow: The Logic of Distributed Systems](https://archive.org/details/informationflowl0000barw/page/42/mode/2up?view=theater)
+Barwise, Jon, Seligman, Jerry, 2008. . In: Cambridge Tracts in Theoretical Computer Science. Cambridge
+University Press.
+
+
+
+Concerned with information flow
+- First principle: Information flow results from regularies in a distributed system
+- Second principle: Information flow crucially involves type and their particulars
+- Third princieple: It is by virtue of regulatities among connection that information abount some components of a distributed system carries information about other components
+- Fouth principle: The regularities of a distributed systems are relative to its analysis in terms of information channels
+
+
+### Logic and Information
 	Delvin K
 	https://archive.org/details/logicinformation0000devl_b6a5/page/88/mode/2up?view=theater	
 
-#### Curious
+### Curious
 	The desire to known and why your future depends on it.
 	Ian Leslie
 	Very much enjoyed this book.
@@ -35,21 +48,21 @@ Books I have read with comments and notes.
 	Makes the point repeatedly how knowledge if required to gain knowledge.
 	Debunks the idea that curiosity and grit alone are sufficient to become knowledgeable.  Knowledge is also required...hence importance of basic education.
 
-#### Governing The Commons
+### Governing The Commons
 	Elinor Ostrom 1990
 	Describes Tradegy of the Commons as a version of the Prisoners Delima.
 	Argues that Tragedy of the Commons situation can be avoided by locally self enforced contracts.
 
-#### Skin in the Game
+### Skin in the Game
 	Nassim Nicholas Taleb 2018
 
-#### The six secrets of intelligence
+### The six secrets of intelligence
 	Craig Adams
 	A book about deduction,  induction, analogy, reality, evidence and meaning	
 	Reviews how Aristotle laid out a theory for how we think which is more fundamental than what we learn in schools today.
 	Discusses how we should argue but identifying the underlying premises in an argument as these are going to be generally where differences of opinion start.
 	Disagree with someone because
-		- they have defined what they are talking about
+		- they have not defined what they are talking about
 		- they have changed their definition midway
 		- there argument relies upon questionable assumptions
 		- the reasoning probable rather than certain
@@ -59,7 +72,7 @@ Books I have read with comments and notes.
 		Richard Nisbett - power of abstract learning
 		James Flynn - power of general concepts
 
-#### The undoing project
+### The undoing project
 	Michael Lewis
 	A book about Amost Tverksy and Daniel Kahneman.   Enjoyable and interesting the back story to their work.
 	Enjoyed recalling aspects of Prospect Theory
@@ -67,13 +80,13 @@ Books I have read with comments and notes.
 		- Availability Heuristic
 	I'm now now interesting the the Features of Similarity theory.
 	
-#### Truth: How the Many Size to Every Stor Shape Our Reality
+### Truth: How the Many Size to Every Story Shape Our Reality
 	Hector Macdonald
 
-#### [The Logic of Science](./pdf/TheLogicOfScience.pdf)
+### [The Logic of Science](./pdf/TheLogicOfScience.pdf)
 	E.T. Jaynes
 
-#### Life 3.0
+### Life 3.0
 	Max Tegmark
 	Looks at the challenges with managing AI as it expands to AGI (Artificial General Intelligence)
 		Matter originally was aiming dissipate (entropy)
@@ -86,41 +99,41 @@ Books I have read with comments and notes.
 	Introduced me to Auto Associative Networks...well may re-introduced them to me.
 	Uses the idea of 'substrate-independence' to describe how capability levels up
 
-#### The Master Algorithm
+### The Master Algorithm
 	Perdo Domingos
 	Describes machine learning in terms of 5 separate approaches.
 	Very enjoyable
 
-#### The Number Sense
+### The Number Sense
 	Stanislas Dehaene
 
-#### The Outliers
+### The Outliers
 	Malcolm Gladwell
 	Main point is that success comes from opportunities.
 	Mastery comes from 10k hours working at a skill
 
-##### Machine Learning for Hackers
+#### Machine Learning for Hackers
 	Drew Conway & John Myles White
 
-##### Evolution (partly read)
+#### Evolution (partly read)
 	Mathew Ridley
 
-##### Superforecasting
+#### Superforecasting
 	Philip Tetlock and Dan Gardner
 	Really enjoyed it. makes the point that forecasting can be improved.
 
-##### Proofiness
+#### Proofiness
 	WOrking Effectively With Legacy Code
 	Michael Feathers
 
-##### Release It.
+#### Release It.
 
-##### Continuous Delivery
+#### Continuous Delivery
 
-##### Cloud Economics.
+#### Cloud Economics.
 
 
-##### Fooled by Randomness
+#### Fooled by Randomness
 	The Hidden Role of Chance in Life and in the markets.
 	Nassim Nicolas Taleb
 	- Enjoyable read.
@@ -129,117 +142,117 @@ Books I have read with comments and notes.
 	- Dont be path dependent.  Always evaluate the future from the present. Dont be married to you position.
 	- Evaluate the possibility of alternate worlds.
 
-##### Kanban
+#### Kanban
 	David Anderson
 	Interesting look at software delivery as reduction of inventory.
 
-##### Six Sigma for Dummies
+#### Six Sigma for Dummies
 	Craig Cygi
 	Useful read.
 
-##### The Organized Mind. (half read)
+#### The Organized Mind. (half read)
 	Daniel J Levitin
 	(good read and want to continue reading)
 
-##### The Phoenix Project
+#### The Phoenix Project
 	Gene Kim, Kevin Behr and George Spafford
 	Modeled on 'The Goal'. Entertaining read.
 
-##### Drift into failure.
+#### Drift into failure.
 	Sidney Dekker
 	Not as good as I expected. Interesting description of Alaska airlines flight problem. Morale is to not over optimize systems as they can become brittle.
 
-##### How not to be wrong.  Everyday mathematics
+#### How not to be wrong.  Everyday mathematics
 	Really enjoyed this book. Statistics, Economics, Bayes Rule.
 
-##### The Lady Tasting Tea
+#### The Lady Tasting Tea
 	About the people involved in the development of statistics.
 	Not worth re-reading
 
-##### Naked Statistics
+#### Naked Statistics
 	Charles Wheelan
 	Enjoyable read but not as useful as expected. Informative about the power of regression.
 
-##### The Checklist Manifesto
+#### The Checklist Manifesto
 	Atul Gawande
 	Enjoy this book about value of checklists in aviation and medicine.
 
-##### Thinking fast and slow.
+#### Thinking fast and slow.
 	Daniel Kahheman
 	Very insightful book.  Used this to create a set of tests to get people thinking about their own thinking.
 
-##### The signal and the noise
+#### The signal and the noise
 	Nate Silver.
 	Explains different between risk and uncertainty.
 	Good example based on 5 mortgages which demonstrates how to the correlation between events and change the likelihoods of outcomes. Hence global financial criis.
 
-##### Thinking in Systems
+#### Thinking in Systems
 	Doneela H Meadows.
 	Enjoyed this book. Author very much sees neeed to be immersed in system. Theme of non-linear ensuring complexity and chaotic behaviour.
 
-##### Anitfragile
+#### Anitfragile
 	Nassim Taleb
 	Presents idea to concentrate on not doing wrong things. Also on the idea to look for concave functions where avg of f(x) is greater than avg x.
 
 
-##### http://yudkowsky.net/rational/bayes
+#### http://yudkowsky.net/rational/bayes
 
 
-##### Stanislas Dehaene's The Number Sense.
+#### Stanislas Dehaene's The Number Sense.
 
-##### The Empty Raincoat :
+#### The Empty Raincoat :
 	Charles Handy
 
-##### How to measure anything:
+#### How to measure anything:
 	Douglas Hubbard
 	Partially Read
 	Good book what to re-read
 	About Monte Carlo simulation, economic value of information.
 
-#####  The failure of Risk Management
+####  The failure of Risk Management
 	Douglas Hubbard
 	Ok book but relatively critical rather than constructive.
 	Discusses merts and drawbacks with Black Swan arguments
 	Then at the end it did become constructive and complementary of Monte Carlo simulation and Sam Savage and DISTS.
 
 
-##### Flaw of Averages: Sam Savage.
+#### Flaw of Averages: Sam Savage.
 	Great book that I really appreciate.
 	Technically good.
 	Describes value of options.
 	Describes significant of correlation and dependency between investments.
 
 
-##### Black Swan : Nassim Nicholas Taleb
+#### Black Swan : Nassim Nicholas Taleb
 	Very enjoyable. Really reasonates with the way that I current think.
 	Not a technical book but lays out good arguments about why we are misled by conventional wisdom about linear thinking.
 
 
-##### Everything is obvious : once you know the answer / Duncan J. Watts.
+#### Everything is obvious : once you know the answer / Duncan J. Watts.
 	Theme that human beings need evidence to be really obvious before we can see it.
 
-##### Nudge : improving decisions about health, wealth, and happiness
+#### Nudge : improving decisions about health, wealth, and happiness
 	Richard H. Thaler, Cass R. Sunstein.
 
-##### Against the Gods
+#### Against the Gods
 	Peter Bernstein
 
-##### The art of strategy : a game theorist's guide to success in business & life
+#### The art of strategy : a game theorist's guide to success in business & life
 	Avinash K. Dixit, Barry J. Nalebuff.
 
-##### Risk Intelligence : How to live with uncertainty :
+#### Risk Intelligence : How to live with uncertainty :
 	Calibration
 	Known knowns, known unknowns, known knowns, unknown knowns
 	Dylans Evans
 
 
-##### The drunkards walk: How randomness rules the world.
+#### The drunkards walk: How randomness rules the world.
 	Leonard Mlodinow
   	Provides good history of history of statistic and probability concepts.
   	Lots of nice problems and solutions.
 
 
-##### The Myth of the Rational Market: A history of risk, reward, delusion on wall street.
+#### The Myth of the Rational Market: A history of risk, reward, delusion on wall street.
 	Justin Fox
 	This book was entertaining more than informative.
 	It did a good job providing a laymans view on the issues that finance faced.
@@ -247,17 +260,17 @@ Books I have read with comments and notes.
 	It was interesting that it incorporate behavioural pyschology and introduced behavioral finance.
 
 
-##### The Idiots Guide to Game Theory
+#### The Idiots Guide to Game Theory
 	This book introduced by to the second price auction and then to the VCG auction which extends that to multiple items for sale.
 
 
-##### The Invisible Gorilla.
+#### The Invisible Gorilla.
 	Christopher Chabris and Daniel Simons.
 	People are myopic in their ability to pay attention, noticing only the task they are working on.
 	People are overconfidently in their ability and knowledge. People think they have an understanding when then dont.
 	People are bad at relating correlation to causation. Causation only determined by controlled experiment.
 
-##### Risk Intelligence : Learning To Manage What We Dont Know
+#### Risk Intelligence : Learning To Manage What We Dont Know
 	How Frequently Do Experiences Relate To The Risk
 	How relevant are these experiences to what might influence the risk?
 	How surprising are these experiences.
@@ -265,35 +278,35 @@ Books I have read with comments and notes.
 	How methodically do you keep track of what you learn from them?
 
 
-##### The Information
+#### The Information
 	James Gleick
 	History of Claude's Shannon;s Information Theory.
 
-##### Dont Short the Shorts
+#### Dont Short the Shorts
 
-##### Beating Murphys Law
+#### Beating Murphys Law
 	Bob Berger
 	Pleasant read on risk assessment. Lots of stats.
 
-##### Chance Rules
+#### Chance Rules
 	An Informal Guide to Probability, Risk and Statistics
 	Brian Everitt
 	Good book , all kinds of stats in it but with good theory and application as well.
 
 
-##### How to Lie With Statistics
+#### How to Lie With Statistics
 	Darell Huff
 	Quite an old book, still a useful read.
 
-##### Known Your Chances
+#### Known Your Chances
 	Steven Woloshin
 	Good book describing how to understand health related statistics
 
-##### Risk
+#### Risk
 	Dan Garder
 	Really enjoyed this book
 
-##### Rational Optimist
+#### Rational Optimist
 	Matt Ridley
 	Influential book that looks at a number of common misconceptions about pollution, health, danger and shows how we are far better off than ever before.
 

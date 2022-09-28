@@ -23,6 +23,9 @@
 ## Books
 Books I have read with comments and notes.
 
+### science strategy and war the strategic theory of john-boyd
+https://epdf.tips/science-strategy-and-war-the-strategic-theory-of-john-boyd-strategy-and-history-.html
+
 ### [Information Flow: The Logic of Distributed Systems](https://archive.org/details/informationflowl0000barw/page/42/mode/2up?view=theater)
 Barwise, Jon, Seligman, Jerry, 2008. . In: Cambridge Tracts in Theoretical Computer Science. Cambridge
 University Press.

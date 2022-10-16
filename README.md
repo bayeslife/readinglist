@@ -23,6 +23,22 @@
 ## Books
 Books I have read with comments and notes.
 
+### Knowing and Being
+https://archive.org/details/knowingbeingessa00pola/page/n7/mode/2up
+ Polanyi, Michael, 1891-1976; Grene, Marjorie, 1910-2009, ed
+
+### The growth of biological thought
+https://archive.org/details/growthofbiologic00mayr
+Mayr, Ernst, 1904-2005
+
+### The ascent of man
+https://archive.org/details/ascentofman00bronrich
+ Bronowski, Jacob, 1908-1974	
+
+### The emerging science of wholeness 
+https://archive.org/details/lookingglassuniv00brig
+ Briggs, John, 1945-; Peat, F. David, 1938-
+
 ### science strategy and war the strategic theory of john-boyd
 https://epdf.tips/science-strategy-and-war-the-strategic-theory-of-john-boyd-strategy-and-history-.html
 

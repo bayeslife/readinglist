@@ -23,6 +23,10 @@
 ## Books
 Books I have read with comments and notes.
 
+### The Myth of the Rational Voter
+Bryan Caplon
+
+
 ### Knowing and Being
 https://archive.org/details/knowingbeingessa00pola/page/n7/mode/2up
  Polanyi, Michael, 1891-1976; Grene, Marjorie, 1910-2009, ed

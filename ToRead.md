@@ -1,9 +1,25 @@
+### Plasticity
+
+Catherine Malabou's book on Plasticity. A short essay on differentiation and complexity that I found fascinating
+
+### Luhman
+Luhmman's theory of ecological communication and ideas of complexity (quite close to cybernetics)
+
+### Hegels
+Hegel's ideas on retroactive historicity, change, and universality being in the particular rather than the universal (not my fault on this one, you brought up synthesis and antithesis/competition :D)
+
+### Being and Event
+Badiou's Being and Event (and follow ups), it's a beautiful mathematical philosophical framework that might provide some useful input to how you can formalize the world and change
+
+### 
+Multi-agent reinforcement learning (MARL) might be a good place to look for literature with practical examples of the idea of individual autonomy and amplification
+
+
+
+
 Continuous Architecture
 https://learning.oreilly.com/library/view/continuous-architecture-in/9780136523796/
 
-
-The Myth of the Rational Voter
-Bryan Caplon
 
 
 Ten Great Ideas About Chance- 

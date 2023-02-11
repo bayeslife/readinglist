@@ -1,3 +1,18 @@
+### Measuring Information Risk a FAIR approach
+https://dl.acm.org/doi/pdf/10.5555/2769769
+
+
+
+### Human Compatible
+AI and the problem of control
+Stuart Russel
+
+#### Merchants of Doubt
+Erik Conway Naomi Oreskes
+
+#### Super Intelligence
+Nick Bostrom
+
 ### Plasticity
 
 Catherine Malabou's book on Plasticity. A short essay on differentiation and complexity that I found fascinating

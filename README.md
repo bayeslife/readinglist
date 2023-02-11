@@ -23,6 +23,26 @@
 ## Books
 Books I have read with comments and notes.
 
+## Proof of Stake
+ Vitalik Buterin 
+
+ 
+## The Art of Logic : How to Make Sense in a World that Doesn't
+Eugenie Cheng
+
+I really enjoyed this book as it tackles the issue that while differences of opinion exist for good reasons 
+it argues that while there can be differences in beliefs there are ways of believing and thinking and that are arguable better.
+
+The author is a mathimatician and explains arguments in terms of how logic is applied in math.  She covers the issues that logic has as it core assumed axioms thus admits that different perspectives.  She covers the  mathimatical logic, the scientific method, analogical reasoning  as well as promoting the importance of emotion and feeling into our logical way of thinking.
+
+
+### Limited Rationality
+Stuart Russell
+https://archive.org/details/dorightthingstud0000russ/page/n23/mode/2up?view=theater
+
+current page
+https://archive.org/details/dorightthingstud0000russ/page/20/mode/2up?view=theater
+
 ### The Myth of the Rational Voter
 Bryan Caplon
 

@@ -66,6 +66,8 @@
 [see Data data Dichotomy Rethinking The Way We Treat Data And Services](https://www.confluent.io/blog/data-dichotomy-rethinking-the-way-we-treat-data-and-services/)
 Interesting view from a number of viewpoints.  Value of database vs api services.  Takes the view to replicate data from master to consumer.
 
+[see Using Apache Kafka as a Scalable, Event-Driven Backbone for Service Architectures](https://www.confluent.io/blog/apache-kafka-for-service-architectures/)
+Best description of log streaming in Kafka
 
 [see Cypress](https://www.cypress.io/)  This is a nice way to develop web application tests.  Rather than using web driver, the test framework runs in the browser itself. One limitiation is that the web application must be able to run in an iframe.
 

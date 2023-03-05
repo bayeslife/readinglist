@@ -1,3 +1,11 @@
+
+
+Structured Design
+Yourdon
+https://archive.org/details/Structured_Design_Edward_Yourdon_Larry_Constantine
+Kent Beck suggest this is about coupling and cohesion
+
+
 ### Measuring Information Risk a FAIR approach
 https://dl.acm.org/doi/pdf/10.5555/2769769
 

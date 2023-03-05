@@ -3,6 +3,13 @@
 ## Us the internet archive to borrow online books
 https://archive.org/ 
 
+
+## Systems Thinking Presentation
+Jessica Kerr
+https://www.youtube.com/watch?v=zrlEiRbJ3Uw
+SystemsThinking.dev
+
+
 ## Online content I follow
 
 [Great video explaining how bayes rules can be translated into multiplicative updates if you use odds instead of proabilitiies as tests update your available information](https://www.youtube.com/watch?v=lG4VkPoG3ko&t=519s)

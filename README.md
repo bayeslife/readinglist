@@ -23,6 +23,25 @@
 ## Books
 Books I have read with comments and notes.
 
+## Factfullness
+Hans Rosling
+ 
+I really enjoyed this book with its positive message.
+Fundamentally this is a book about the biases that exist in human though which prevent us from seeing the tremedous advancement in human well being about the last century.
+
+The book also presented 10 specific cognitive traps we should always look out for
+- Gap Instinct- be careful that gaps are drawn which mislead people.
+- Negative Instinct - remember that negative information is more likely to reach us
+- Fear instance - just because it is frightening doesn make is significant...if its a low risk
+- Size Instinct - single large numbers can easily be misleading.  Try to look for comparisons or ratios.
+- Generalization Instinct - people accept categories they are provided with rather than finding similarities between different categories or vice versa.
+- Destiny Instanct - this is thinking things are concept when they are just slowly changing
+- Single Perspective Instinct - realize our tendencies to see everything as a nail for our hammer.
+- Blame Instinct - recognize when a scapegoat is being used
+- Urgency Instance - people make bad decisions under urgency pressure. Take small steps.
+
+
+
 ## Proof of Stake
  Vitalik Buterin 
 

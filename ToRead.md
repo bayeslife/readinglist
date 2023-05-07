@@ -1,5 +1,39 @@
 
 
+The upside of irrationality : the unexpected benefits of defying logic at work and at home 
+Dan Ariely.
+
+Stephen Pinker
+The better angels of our nature
+
+The marshmallow test : understanding self-control and how to master it 
+Walter Mischel.
+https://archive.org/details/marshmallowtestu0000misc
+
+
+Carol Travis
+Mistakes were made but not by me.
+https://archive.org/details/mistakesweremade0000tavr_a1o9
+
+
+The happiness hypothesis : finding modern truth in ancient wisdom
+by Haidt, Jonathan
+https://archive.org/details/happinesshypothe0000haid
+
+STephen Pinker
+How the mind works
+https://archive.org/details/howmindworks00pink
+
+Stephen Pinker
+The stuff of thought
+https://archive.org/details/stuffofthoughtla00pink_0
+
+
+Stephen Pinker
+The blank slate
+https://archive.org/details/blankslatemodern0000pink_a0y0
+
+
 Structured Design
 Yourdon
 https://archive.org/details/Structured_Design_Edward_Yourdon_Larry_Constantine

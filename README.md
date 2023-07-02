@@ -23,6 +23,12 @@
 ## Books
 Books I have read with comments and notes.
 
+## Prediction Machines
+The simple economics of artificial intelligence
+Ajay Agrawal, Joshua Gans , Avi Goldfarb
+
+
+
 ## Factfullness
 Hans Rosling
  

@@ -23,6 +23,15 @@
 ## Books
 Books I have read with comments and notes.
 
+## 2023-07-15 Risk Savy How to Make Good Decisions
+Gerd Gigerenzer
+
+Nice book which makes the case their are different domains of decisions
+- those with known risks
+- those where uncertainty is the dominant factor
+
+He argues that for the decisions dominated by uncertainity, rules of thumb /heuristics are the most useful mechanism for making decisions
+
 ## Prediction Machines
 The simple economics of artificial intelligence
 Ajay Agrawal, Joshua Gans , Avi Goldfarb

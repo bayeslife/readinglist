@@ -23,6 +23,8 @@ There is lots of great commentary on the multiple aspects of javascript as a lan
 
 ## Interesting
 
+[When to use standards and when not to use standards](https://www.allaboutlean.com/when-and-when-not-standards/) - This is a useful reference to rebuff the common call for global standardization.
+
 [Top Data Science Cheat Sheets](https://adolfoeliazat.com/2022/01/12/top-data-science-cheatsheets-ml-dl-python-r-sql-maths-statistics/)
 
 ### Learning AI

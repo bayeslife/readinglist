@@ -23,6 +23,20 @@
 ## Books
 Books I have read with comments and notes.
 
+## 2023-12-16 The Scout Mindset
+Julia Galef
+
+Enjoyed this book.
+Conveyed the idea that we should seek the truth as a scout rather than become attached to our ideas and defensively seek to defend our 'beliefs' as a solider.
+Did feel it didnt give me enough specific details on how to become a scout and avoid being a soldier.
+
+## 2023-12-10 HumanKind
+Rutger Bregman
+
+Really enjoyed this book as it suggested a lot of definitive books I had read where actually misleading.
+
+Very hopeful book suggesting that humans are naturally kind because of their ancestry.
+
 ## 2023-07-15 Risk Savy How to Make Good Decisions
 Gerd Gigerenzer
 

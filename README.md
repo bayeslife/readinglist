@@ -23,6 +23,11 @@
 ## Books
 Books I have read with comments and notes.
 
+## 2023-12-21 Scientific Knowledge and Its Social Problems
+Jerome Ravitz
+https://archive.org/details/scientificknowle0000unse_q0u5/page/n10/mode/1up
+
+
 ## 2023-12-16 The Scout Mindset
 Julia Galef
 

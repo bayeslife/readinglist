@@ -1,4 +1,7 @@
 
+[How to measure anything in  cybersecurity risk](./pdf/202-12-27-HowToMeasureAnythingInCyberSecurity.pdf)
+Douglas Hubbard
+
 [How to measure anything](./pdf/2023-12-27-HowToMeasureAnythingEd2DouglasWHubbard.pdf)
 Douglas Hubbard
 

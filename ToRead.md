@@ -1,4 +1,28 @@
 
+[How to measure anything](./pdf/2023-12-27-HowToMeasureAnythingEd2DouglasWHubbard.pdf)
+Douglas Hubbard
+
+What the numbers say
+Derrick Neiderman and David Boyum
+
+Prove It
+Stacey Barr
+
+[Deep Work](./pdf/2023-12-27-DeepWork.pdf)
+Cal Newport
+
+The Organized Mind. (half read)
+Daniel J Levitin
+[PDF](./pdf/2023-12-27-TheOrganizedMind.pdf)
+
+
+The Tyranny of Metrics
+Jerry Mueller
+https://dokumen.pub/the-tyranny-of-metrics-0691174954-9780691174952.html#English
+
+
+Dont Believe Everything You Think
+Thomas Kida
 
 The upside of irrationality : the unexpected benefits of defying logic at work and at home 
 Dan Ariely.

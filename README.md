@@ -28,6 +28,12 @@ Share Parrish
  
 Valuable read which discusses issue with cognition and steps to break out of the cognitive short comings we all have.
 
+Avoid the defaults
+- emotion default
+- social default
+- ego default
+- inertia default
+
 `Best practices are always the best. By definition they are average`
 
 `Avoid default thinking by creating an intentional environment where the correct behaviours are rewarded` Implication: Quality work can only be acheived by environment where quality is rewarded.
@@ -49,6 +55,10 @@ Valuable read which discusses issue with cognition and steps to break out of the
 `Force yourself to think of 3 solutions to a problem and then think what if an option is not available`
 
 `Good predictors update their beliefs as new information arises: Philip Tetlock` Implication: Have a mechanism to update beliefs (Is quality good enough?, Is this opportunity worth pursuing?)
+
+`Conventional Wisdom suggests that good outcomes result from good people making good decisions and bad decision result from bad people making bad decisions`  Implication: There is randomness in most outcomes and a bad outcome doesnt mean a bad decision or vice versa.
+
+`If you want a better life start thinking about death` Implication: Think about things you would like to have done when you are at the end of your life.
 
 ## 2023-12-27 The Data Loom
 Stephen Few

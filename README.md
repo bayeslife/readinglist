@@ -23,9 +23,35 @@
 ## Books
 Books I have read with comments and notes.
 
+## 2023-012-29 Clear Thinking
+Share Parrish
+ 
+Valuable read which discusses issue with cognition and steps to break out of the cognitive short comings we all have.
+
+`Best practices are always the best. By definition they are average`
+
+`Avoid default thinking by creating an intentional environment where the correct behaviours are rewarded` Implication: Quality work can only be acheived by environment where quality is rewarded.
+
+`Complaining is not a strategy. You have to work with the world as it exists, not as you would have it be: Jeff Bezos` Implication: Dont complain accept things.
+
+`The wrong side of right`: Implication: when running a business the cost of being wrong is to great to worry about being precious about being right.
+
+`Is this your best work`: Implication: dont review things from people if its not their best work, otherwise you are doing their work for them.
+
+`I never allow myself to have an opinion unless I know the other sides argument better than they do: Charle Munger`: Implication: Challenge your beliefs from both sides.
+
+`Avoid default behaviours by having a rule that requires no decision making: Daniel Kaheman` Implication: When asked for how long something will take state you have a rule that estimates arent provided without a request for an estimate.
+
+`When a diverse set of people come together to define and solve a problem people generally solve the first problem that everyone agrees on rather than the actual problem which needs to be solved.` Implication: have separate problem definining meetings and problem solving meetings.  Spend more time discussing the problem and less time on the solution.
+
+`Dont just imagine the future ideal outcome. Imaging things which could go wrong and how they would be overcome`
+
+`Force yourself to think of 3 solutions to a problem and then think what if an option is not available`
+
+`Good predictors update their beliefs as new information arises: Philip Tetlock` Implication: Have a mechanism to update beliefs (Is quality good enough?, Is this opportunity worth pursuing?)
+
 ## 2023-12-27 The Data Loom
 Stephen Few
-
 
 
 ## 2023-12-16 The Scout Mindset
@@ -249,6 +275,7 @@ Concerned with information flow
 #### The Organized Mind. (half read)
 	Daniel J Levitin
 	(good read and want to continue reading)
+	[PDF](./pdf/2023-12-27-TheOrganizedMind.pdf)
 
 #### The Phoenix Project
 	Gene Kim, Kevin Behr and George Spafford

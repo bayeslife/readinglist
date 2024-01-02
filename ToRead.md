@@ -1,5 +1,8 @@
 
-[How to measure anything in  cybersecurity risk](./pdf/202-12-27-HowToMeasureAnythingInCyberSecurity.pdf)
+[Great by choice](./pdf/2024-01-02-GreatByChoice.pdf)
+Jim Collins and Morten T. Hansen
+
+[How to measure anything in cybersecurity risk](./pdf/202-12-27-HowToMeasureAnythingInCyberSecurity.pdf)
 Douglas Hubbard
 
 [How to measure anything](./pdf/2023-12-27-HowToMeasureAnythingEd2DouglasWHubbard.pdf)

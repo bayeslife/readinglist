@@ -23,6 +23,15 @@
 ## Books
 Books I have read with comments and notes.
 
+### 2024-01-06 How to Measure Anything
+Douglas Hubbard
+Practical book which sees most IT work a decision making work.
+Describes the valuable skill of an approach to making decisision under undertainty.
+
+### 2024-01-04 Flip Thinking: Changing Problems Into Opportunities
+Berthold Gunster
+
+
 ## 2023-012-29 Clear Thinking
 Share Parrish
  
@@ -62,8 +71,28 @@ Avoid the defaults
 
 ## 2023-12-27 The Data Loom
 Stephen Few
+About critical thinking and data sense making
+Active, careful and persistent thinking about a belief or some knowledge of the evidence which supports it and the implications which result from it.
 
+- Defines the logic of abduction in addition to deduction and induction.  Abduction is 'inference to the best explanation': the logic of seeing generializations, seeing the pattern in a data set.
 
+Identifies the many cognitive biases, stastical and causal errors which impact our ability to critically think.
+-Cognitive Biases
+    - anchoriing bias
+    - confirmation bias
+    - availability heuristic
+    - default effect
+    - appeal to common sense
+- Statistical Errors
+    - law of small numbers
+    - base rate fallacy
+    - hot hand fallacy
+    - variation blindness
+- Causal Errors
+    - post hoc ergo - something happened recently because we did something recently
+    - unit bias
+    - outcome bias
+    - spurious correlation
 ## 2023-12-16 The Scout Mindset
 Julia Galef
 

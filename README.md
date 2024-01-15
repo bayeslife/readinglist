@@ -23,6 +23,18 @@
 ## Books
 Books I have read with comments and notes.
 
+### 2024-01-16 Noise
+Daniel Kaheman
+Oliver Sibony
+Cass Sunstein
+
+Interesting read
+Makes point that noise in a human skill even if it averages to zero still has a large cost for business (Insurance claim, judge decisions)
+Defines errors from bias or noise and via mean squared error in which distance squared from the target drives error
+
+Discusses wisdom of crowsds as a way to compensate but also make the same judgement repeatedly is a way to get better judgement individually
+Discusses how mood influences judgement. We are not the same person at all times.  Mood significantly includes what we accept or question.
+
 ### 2024-01-06 How to Measure Anything
 Douglas Hubbard
 Practical book which sees most IT work a decision making work.

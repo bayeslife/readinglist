@@ -23,6 +23,17 @@
 ## Books
 Books I have read with comments and notes.
 
+### 2024-03-25 Radical Uncertainty
+- Mervyn King
+- John Kay
+
+Extremely valuable read which questioned the significance of scientific tecniques statistics and bayesian logic based reasoning.
+This book had me questioning my trust in importance of leading a bayesian life.
+
+
+`The false assumption that good process leads to good outcomes is pervasive in large organization, where good often means *lengthy*, involves *many people with little responsibility* for the outcome, and is imbued with *ill defined concepts of fairness* centred around representativeness and statistical discrimination`
+
+
 ### 2024-01-16 Noise
 Daniel Kaheman
 Oliver Sibony

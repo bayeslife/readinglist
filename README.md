@@ -23,6 +23,11 @@
 ## Books
 Books I have read with comments and notes.
 
+### The believing brain
+Michael Shermer
+
+This book examines the biology how people believe first and then rationalize.  
+
 ### 2024-03-25 Radical Uncertainty
 - Mervyn King
 - John Kay

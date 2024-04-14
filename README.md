@@ -23,6 +23,11 @@
 ## Books
 Books I have read with comments and notes.
 
+### 2024-04-15 The book of Why. The new science of cause and effect
+Judea Pearl
+
+I am quite pleasantly suprised by this book as it appears to provide additional logical tools in partcular path diagrams as a way to investigate data.
+
 ### The believing brain
 Michael Shermer
 

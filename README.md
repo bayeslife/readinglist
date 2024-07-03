@@ -23,10 +23,18 @@
 ## Books
 Books I have read with comments and notes.
 
+### 2024-06-29 Misbelief
+Dan Ariely
+
+Enjoyed this book more than I thought.  It looks at how people can believe things which are so irrational and how they dont try to falsify what they believe.
+It was a little bit depressing because it recognizes the realities of stress, our social nature and our vulnerabilities.
+
+
 ### 2024-04-15 The book of Why. The new science of cause and effect
 Judea Pearl
 
-I am quite pleasantly suprised by this book as it appears to provide additional logical tools in partcular path diagrams as a way to investigate data.
+I am quite pleasantly surprised by this book as it appears to provide additional logical tools in partcular path diagrams as a way to investigate data.
+I put together an application to draw path diagrams and investigate the ideas in this book.
 
 ### The believing brain
 Michael Shermer

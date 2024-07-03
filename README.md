@@ -29,6 +29,7 @@ Dan Ariely
 Enjoyed this book more than I thought.  It looks at how people can believe things which are so irrational and how they dont try to falsify what they believe.
 It was a little bit depressing because it recognizes the realities of stress, our social nature and our vulnerabilities.
 
+I especially liked concepts like the 'handicap principle' which embodies the idea that is up to someone being communicated to to require a handicap of the sender.  The classic of this is the peacock tail.
 
 ### 2024-04-15 The book of Why. The new science of cause and effect
 Judea Pearl

@@ -23,6 +23,16 @@
 ## Books
 Books I have read with comments and notes.
 
+## 2024-10-23 May Contain Lies
+Alex Edelman
+
+A very nice book about the ladder of information.
+- Statements are no Facts
+- Facts are not Data
+- Data is not Evidence
+- Evidence is not Proof
+All grounded in the bayesian theory that information need to be considered with respect to consistent and alternatives to what we currently believe.
+
 ### 2024-06-29 Misbelief
 Dan Ariely
 

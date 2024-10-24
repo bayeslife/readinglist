@@ -9,8 +9,13 @@ Jessica Kerr
 https://www.youtube.com/watch?v=zrlEiRbJ3Uw
 SystemsThinking.dev
 
-
 ## Online content I follow
+
+[The Effect Book ](https://theeffectbook.net/)
+[The Effect Book Research Design Series](https://www.youtube.com/watch?v=yQXqdmenc6M&list=PLcTBLulJV_AK1hKtnO0-kYrU0D09K-kj8)
+
+
+[What to trust in a post-truth world](https://www.youtube.com/watch?v=rpJx5VLQMxk&t=919s)
 
 [Great video explaining how bayes rules can be translated into multiplicative updates if you use odds instead of proabilitiies as tests update your available information](https://www.youtube.com/watch?v=lG4VkPoG3ko&t=519s)
 

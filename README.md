@@ -404,7 +404,7 @@ Concerned with information flow
 	Doneela H Meadows.
 	Enjoyed this book. Author very much sees neeed to be immersed in system. Theme of non-linear ensuring complexity and chaotic behaviour.
 
-#### Anitfragile
+#### Antifragile
 	Nassim Taleb
 	Presents idea to concentrate on not doing wrong things. Also on the idea to look for concave functions where avg of f(x) is greater than avg x.
 

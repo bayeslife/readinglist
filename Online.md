@@ -1,5 +1,11 @@
 # Online Content
 
+
+## Bayesian Data Analysis
+
+[Statistical Rethinking](https://www.youtube.com/playlist?list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus)
+
+
 ## Large Language Models
 
 [Transformer Archiecture](https://e2eml.school/transformers.html)

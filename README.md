@@ -23,6 +23,16 @@
 ## Books
 Books I have read with comments and notes.
 
+## 2025-01-06 
+
+Good book which is going to be helpful at work
+Topics include
+- Forecasting - Using the reference class method
+- Practical Wisdown - 
+
+Bent Flyvbjerg
+Dan Gardner
+
 ## 2024-10-23 May Contain Lies
 Alex Edelman
 

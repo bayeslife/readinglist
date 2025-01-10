@@ -23,15 +23,44 @@
 ## Books
 Books I have read with comments and notes.
 
-## 2025-01-06 
+## 2025-01-10 Shape
+The hidden geometry of absolutely everything
+Jordan Ellenberg
+
+A book linking multiple concepts, the history of geometry together
+
+Topics
+- Pointcare/Euclid
+- Epidemics and disease spreading
+- Random walk
+- Gerrymandering and difficulty with voting schemes which are fair giving geometry of voters
+- Computers playing games
+- Cryptography
+- Differential equations
+- Eigenvalues
+- Text generation
+
+- For series, the expectation is what happens today, happens tomorrow and so it useful to represent changes between today and tomorrow which provides a series.
+- Simulated randon walk is a good way to evaluate value
+- Efficient way to do disease testing can be to combine blood from different people
+
+This book is relevant in relation to using asset management data sets as the concept of closeness and similarity is a core idea in geometry.
+
+## 2025-01-06 How to big things get done
+Bent Flyvbjerg
+Dan Gardner
 
 Good book which is going to be helpful at work
 Topics include
+- Think slow, act fast
+- Plan iteratively
 - Forecasting - Using the reference class method
-- Practical Wisdown - 
+	- The idea is to anchor your project based on what other similar projects have cost as these costs include the unknown unknowns that would be hard to include otherwise.
+- Practical Wisdown -
+- Frozen Experience - working software contains the wisdom of mutiple trials and errors
+- Inside view vs Outside View - Inside view is seeing a project as a singularity, the outside view is seeing it as a class. 
 
-Bent Flyvbjerg
-Dan Gardner
+
 
 ## 2024-10-23 May Contain Lies
 Alex Edelman

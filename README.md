@@ -54,6 +54,7 @@ Good book which is going to be helpful at work
 Topics include
 - Think slow, act fast
 - Plan iteratively
+	- AWS approach to ban PPTs and instead have PR and FAQS as the starting point of any project
 - Forecasting - Using the reference class method
 	- The idea is to anchor your project based on what other similar projects have cost as these costs include the unknown unknowns that would be hard to include otherwise.
 - Practical Wisdown -

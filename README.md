@@ -23,6 +23,12 @@
 ## Books
 Books I have read with comments and notes.
 
+## 2025-01-19 Infinite Powers
+Steven Storgatz
+
+An interesting book about the development of calculus.
+The author presents the history of the development of calculus and describes the different approaches take to work out calculus methods.
+
 ## 2025-01-10 Shape
 The hidden geometry of absolutely everything
 Jordan Ellenberg
@@ -60,7 +66,6 @@ Topics include
 - Practical Wisdown -
 - Frozen Experience - working software contains the wisdom of mutiple trials and errors
 - Inside view vs Outside View - Inside view is seeing a project as a singularity, the outside view is seeing it as a class. 
-
 
 
 ## 2024-10-23 May Contain Lies

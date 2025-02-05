@@ -27,7 +27,37 @@ Books I have read with comments and notes.
 Sander van der Linden
 
 This book describes the stategies and techniques of misinformation.
-It presents a 'innoculation' based approach to counter misinformation mainly be pre-bunk which involves making people aware of misinformation techniques so they are more easily spot them.
+It presents a 'innoculation' based approach to counter misinformation mainly be pre-bunk which involves making people aware of misinformation techniques so they are more easily spot them.	
+
+- People are susceptible to misinformation.
+	- Confirmtion Bias
+	- Conjunction Fallacy
+    	Is it more likely that 
+    	- Linda is a bank teller 
+    	or
+    	- Linda is a bank teller and active in the feminist movement
+
+- There are various techniques which are employed to deliver misinformation
+
+CONSPIRE  - 7 traits of conspirational thinking
+- Contradictory
+- Overriding Suspicion
+- Nefarious Intent
+- Something must be wrong
+- Persecuted Victim
+- Immune to Evidence
+- Re-interpret randomness
+
+
+
+DEPICT - Six Degrees of Manipulation
+- Discrediting - Attack the source of criticism
+- Emotion - When people are emitonal they are more suspectable to misinformation
+- Polarization - Draw distinctions and separate people into groups
+- Impersonation - Take on someone else's identity
+- Conspiracy - Suggest things are not what they seem...without providing any evidence...people like at good story
+- Trolling - Posting inflamatory information to manipulate public perception
+
 
 ## 2025-01-19 Infinite Powers
 Steven Storgatz

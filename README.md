@@ -23,6 +23,12 @@
 ## Books
 Books I have read with comments and notes.
 
+## 2025-02-04 FoolProof
+Sander van der Linden
+
+This book describes the stategies and techniques of misinformation.
+It presents a 'innoculation' based approach to counter misinformation mainly be pre-bunk which involves making people aware of misinformation techniques so they are more easily spot them.
+
 ## 2025-01-19 Infinite Powers
 Steven Storgatz
 

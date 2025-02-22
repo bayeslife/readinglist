@@ -23,6 +23,14 @@
 ## Books
 Books I have read with comments and notes.
 
+## 2025-02-21 Good Data
+Sam Gilbert
+
+Sam is a facebook fan.
+He provides the argument in favour of advertising based data business models.
+Paints the picture that Facebook is a pan state based organization aiming.
+He advocates for more open data.
+
 ## 2025-02-04 FoolProof
 Sander van der Linden
 

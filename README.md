@@ -23,6 +23,14 @@
 ## Books
 Books I have read with comments and notes.
 
+## 2025-03-10 Co-Intelligence
+
+This is a book about how to utilize LLM.
+A couple important points
+- the more specific you can be in how you want a question answered the more specific the response will be.  Try asking a question in the form of 'You are math teacher at a primary school, how would you explain ....'
+- be sure to include LLM in some form of review of the work you do.
+
+
 ## 2025-02-21 Good Data
 Sam Gilbert
 

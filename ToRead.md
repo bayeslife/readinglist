@@ -1,4 +1,6 @@
 
+WHen to rob a bank - Steven Levit and Stephen Dubner
+
 Surfaces and Essences - Hofstadter
 
 [Why: A guide to finding and using causes](http://ndl.ethernet.edu.et/bitstream/123456789/17879/1/491.pdf)

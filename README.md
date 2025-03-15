@@ -23,6 +23,12 @@
 ## Books
 Books I have read with comments and notes.
 
+## 2025-03-16 Rationality
+Stephen Pinker
+
+Very good book covering topics including correlation,causation, human bias, bayesian thinking, motivated reason before ultimately commenting on reasons for a lack of truth seeking in todays society.
+
+
 ## 2025-03-10 Co-Intelligence
 
 This is a book about how to utilize LLM.

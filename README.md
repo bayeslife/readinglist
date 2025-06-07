@@ -23,6 +23,12 @@
 ## Books
 Books I have read with comments and notes.
 
+## 2025-06-05 The Rules of Security
+Paul Martin
+
+I appreciated this book and got a lot of useful ideas from it.
+In particular the Delphi method is something I want to look more into.
+
 ## 2025-03-16 Rationality
 Stephen Pinker
 

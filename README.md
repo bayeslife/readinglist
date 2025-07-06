@@ -23,6 +23,9 @@
 ## Books
 Books I have read with comments and notes.
 
+## 2025-07-06 The Four Ways of Thinking
+David Sumpter
+
 ## 2025-06-05 The Rules of Security
 Paul Martin
 

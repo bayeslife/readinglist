@@ -23,6 +23,13 @@
 ## Books
 Books I have read with comments and notes.
 
+## 2025-10-05 Thinking in Systems 
+Donnela Meadows
+Stimulating book about Systems Thinking. 
+Stores and Flows
+Feedback, Stocks, Delays and Oscillations
+Thou shall not distort, delay or withhold information. 
+
 ## 2025-07-06 The Four Ways of Thinking
 David Sumpter
 

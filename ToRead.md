@@ -1,4 +1,7 @@
 
+The ten equations which rule the world
+David Sumpter
+
 WHen to rob a bank - Steven Levit and Stephen Dubner
 
 Surfaces and Essences - Hofstadter

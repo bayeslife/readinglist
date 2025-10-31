@@ -23,6 +23,16 @@
 ## Books
 Books I have read with comments and notes.
 
+## 2025-10-31 The Deficit Myth
+Stephanie Kelton
+
+This book is about how countries with fiat currency dont have limits to limit spending to tax reveneue (dont have to have balanced budgets). It differentiates organization which are currency issuers from those who are currency users.
+This book does a nice job of explaining macroeconomic flows by using very simple models.  Government Bucket - Non Government Bucket. It explains Tax and Borrow to Spend (TAB)S versus Spend to Tax and Borrow S(TAB).  People assume the US government is the first but it actually can be the second.
+
+The purpose of taxes is to enable the services which people need. A virtuous cycle where the population is incentivized to do work to stay out of trouble.  Taxes exist to create a demand for the currency of the country.
+
+The implications of the theory are fiscal policy (goverment spending) is more important then monetary policy(interest rates) for managing inflation.  There can be ecnonomic stabilizing programs such as guaranteed employment. Or the government can used its currency to enable transitions such as the energy transition but taking over polluting power stations.
+
 ## 2025-10-05 Thinking in Systems 
 Donnela Meadows
 Stimulating book about Systems Thinking. 

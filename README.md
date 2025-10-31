@@ -23,6 +23,13 @@
 ## Books
 Books I have read with comments and notes.
 
+## 2025-11-01 Building Secure and Reliable Systems
+Heather Adkins, Betsy Beyer,Paul Blankinship, Piotr Lewandowski, Oprea Stubblefield, Adam Stubblefield
+
+This books as the relationship between reliabilty and security which can be at odds.
+Reliability issues are caused by non-adversial threats.
+Security issues are caused by adversial threats.
+
 ## 2025-10-31 The Deficit Myth
 Stephanie Kelton
 

@@ -23,6 +23,28 @@
 ## Books
 Books I have read with comments and notes.
 
+## 2026-02-01 Upstream
+Dan Heath
+This book is about the challenges in moving to prevention upstream solutions over reactive downstream solutions.
+I enjoyed this book which resonated with me in turn of not accepting things the way they are.
+There are some useful tools/concepts in the book.
+The book makes the arguments that models are going to be poor because of the complexity of systems.  Instead of relying on models, the idea is to learn through action and experimentation and good feedback loops.
+
+## 2026-01-15 Risk: A Users Guide
+General Stanley McCrystal and Anna Butrico
+I enjoyed this book which provide a series of risk controls to improve a risk immune system
+- Communications
+- Narrative
+- Structure
+- Technology
+- Diveristy
+- Bias
+- Action
+- Timing
+- Adaptability
+- Leadership
+
+
 ## 2025-11-01 Building Secure and Reliable Systems
 Heather Adkins, Betsy Beyer,Paul Blankinship, Piotr Lewandowski, Oprea Stubblefield, Adam Stubblefield
 

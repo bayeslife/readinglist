@@ -23,6 +23,16 @@
 ## Books
 Books I have read with comments and notes.
 
+## 2026-02-20 Remember
+Lisa Genova
+
+Information book on how memory works.
+- Attention required
+- Repetition
+- Forgetting is normal and valueable
+- Learn stuff in the context in which you will use it
+- Get enough sleep 7-9 hours per day
+
 ## 2026-02-01 Upstream
 Dan Heath
 This book is about the challenges in moving to prevention upstream solutions over reactive downstream solutions.

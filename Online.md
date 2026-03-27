@@ -10,9 +10,16 @@
 [Statistical Rethinking](https://www.youtube.com/playlist?list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus)
 
 
+## Neural Networks
+
+[AutoGrad](PyTorch's autograd is an automatic differentiation engine that powers neural network training by computing gradients using a Directed Acyclic Graph (DAG).)
+
 ## Large Language Models
 
 [Transformer Archiecture](https://e2eml.school/transformers.html)
+
+[Transformer in Typescript](https://trekhleb.dev/homemade-gpt-js/)
+- also see the 
 
 ## Us the internet archive to borrow online books
 https://archive.org/ 

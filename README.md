@@ -23,6 +23,12 @@
 ## Books
 Books I have read with comments and notes.
 
+## 2026-03-26 Software Estimation's Cone of Uncertainty
+Steve McConnell
+
+- Useful paper on how uncertainty influences estimations
+
+
 ## 2026-02-20 Remember
 Lisa Genova
 

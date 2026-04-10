@@ -23,7 +23,15 @@
 ## Books
 Books I have read with comments and notes.
 
-## 2026-43-10 Smart People Should Build Things
+## 2026-04-10 How the world ran out of evertyhing
+Peter S Goodman
+
+This is a book about the frailties of the global supply chain.
+
+Interestingly perceives lean as causing this frailty in its focus on reducing inventory and avoiding waste.
+
+
+## 2026-04-10 Smart People Should Build Things
 Andrew Yang
 
 This is a book about how young people should avoid going into well paid positions with large consulting companies.

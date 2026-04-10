@@ -23,6 +23,14 @@
 ## Books
 Books I have read with comments and notes.
 
+## 2026-43-10 Smart People Should Build Things
+Andrew Yang
+
+This is a book about how young people should avoid going into well paid positions with large consulting companies.
+Instead they should get real world entreprenuer expeirence.
+The author is promoting his Venture for America organizations.
+
+
 ## 2026-03-26 Software Estimation's Cone of Uncertainty
 Steve McConnell
 

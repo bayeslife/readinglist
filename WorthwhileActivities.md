@@ -2,6 +2,19 @@
 
 How to identify activity that is worthwhile to invest time, effort and money.
 
+## Feedback Loop
+
+There should be the ability to try the idea and if things dont work about the client is able to provide feedback on why.
+
+This achieves a learning cycle.
+
+## Many Interactions
+
+The business idea should involve a large number of independent transactions.
+
+The benefit of this is that it allow for learning and course correction.
+
+
 ## Business Value
 The business justification makes sense. Dont be afraid to question the value of the offering.
 If it doesnt appear to make sense to develop the capability then this needs to be surface or the work is at risk.
@@ -71,8 +84,15 @@ The introducion of errors must cause real problems.  If its possible to publish 
 
 A lot of business problems are not critical problems.  A change of management could mean a change of direction.  The under-criticality of the capability means it wont get the required focus.
 
+## Long term operational value
+
+
+## No replaceable by AI
+
+- the idea should not be replacable by AI because it is using information not in the public domain
+
 
 ## Avoid these pitfalls
 
 Develop documentation that users cant interact with in on a small scale to get an understanding.
-Working on a problem which is dealing with abstract untestable concepts.  VF CFS catalogue.
+Working on a problem which is dealing with abstract untestable concepts.  

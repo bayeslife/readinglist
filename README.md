@@ -23,6 +23,12 @@
 ## Books
 Books I have read with comments and notes.
 
+## 2026-06-07 When everyone knows that everyone knows
+Common Knowledge and the Science of Harmony, Hypocriscy, Outrage
+STeven Pinker
+
+Very interesting book which describes how coordination relates to common knowledge.
+
 ## 2026-04-10 How the world ran out of evertyhing
 Peter S Goodman
 

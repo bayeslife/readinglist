@@ -23,6 +23,19 @@
 ## Books
 Books I have read with comments and notes.
 
+## 2026-07-12 The Singularity is Nearer
+
+Ray Kurzweil
+
+
+
+## 2026-07-12 How to Expect The Unexpected 
+Kit Yates
+
+I enjoyed this book.
+
+One idea this book described was how in the stock market at 10% loss followed by a 10% gain is an overall loss.  This is simple once you realize it but easily misunderstood.
+
 ## 2026-06-07 When everyone knows that everyone knows
 Common Knowledge and the Science of Harmony, Hypocriscy, Outrage
 STeven Pinker

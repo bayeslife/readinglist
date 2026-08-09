@@ -23,11 +23,17 @@
 ## Books
 Books I have read with comments and notes.
 
+## 2026-08-09 Nudge : The Final Edition
+Richard Thaler
+Cass Sunstein
+
+Enjoyable read.
+Very interesting chapter on Swedish super scheme in which lots of people made poor choices and never revised those choices.
+
+
 ## 2026-07-12 The Singularity is Nearer
 
 Ray Kurzweil
-
-
 
 ## 2026-07-12 How to Expect The Unexpected 
 Kit Yates

@@ -23,6 +23,18 @@
 ## Books
 Books I have read with comments and notes.
 
+## 2026-08-20 Free Thought 
+Simon McCarthy Jones
+
+I found this book at excellent attempt at even-handedness of free through/speech.
+
+This book presented the view that thought - is best done in diverse groups and out loud.
+
+I appreciated this book introducting me to extensions of things I knew.
+For example this book described how the 'Linda Bank Teller' bias is circumvented by group consideration.
+
+This quote stuck out: `Liberalims is the tryanny of tolerance` and presents the view that in a liberal society it is necessary to be tolerant of alternative viewpoints.
+
 ## 2026-08-09 Nudge : The Final Edition
 Richard Thaler
 Cass Sunstein

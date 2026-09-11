@@ -23,6 +23,28 @@
 ## Books
 Books I have read with comments and notes.
 
+## 2026-09-10 Wise Animals
+This book started off well but tapered off.
+
+What was interesting in the start of the book is the account for how we (homo sapiens) are the 'last of the hominids'.
+The suggestion in the book is that our (hom sapien) super power is cooperation...which again is attributed to hunter gatherer societies.
+
+Other species are sensitive to insufficiency.  Humans alone are sensitive to unfairness.
+
+## 2026-09-01 The Inner Level
+Richard Wilkinson and Kate Pickett
+
+I found this book to be very interesting.
+It discusses in very thorough detail how inequality is correlated with many of societies ills.
+
+There is a particularly interesting chapter on the misconception of meritocracy...used to justify inequality.
+It describes how it is more likely that success is acheived through advantageous environment than through superior merit.
+
+Another significant idea in the book is about 2 types of societies.
+First societies that are organized in the form of dominance hierarchies.  Think lions with a dominant male having access to all females
+Secondly a hunter gatherer society which the book claims was very egalitarian...represented by significant sharing as compared to dominance hierarchy.
+The argument is that for most of the recent human history we have been hunter gathers and egalitarian minded because if anyone became to domineering everyone else would unite against them. This behaviour is observed in the 'ultimatum game'.  A game in which people often works against their own benefit if they feel unfairly treated.
+
 ## 2026-08-20 Free Thought 
 Simon McCarthy Jones
 

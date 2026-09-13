@@ -23,6 +23,11 @@
 ## Books
 Books I have read with comments and notes.
 
+## 2026-09-13 Mindware
+Richard Nisbett
+
+
+
 ## 2026-09-10 Wise Animals
 This book started off well but tapered off.
 

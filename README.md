@@ -23,9 +23,31 @@
 ## Books
 Books I have read with comments and notes.
 
+## 2026-10-05 These Strange New Minds
+Chrisopher Summerfield
+
+
+## 2026-10-04 What is ChatGPT doing
+STephen Wolfram
+
+Quick read on Transformer Architecture which gave a couple small insights into how they work
+
+## 2026-09-25 The Ascent of Man
+Jacon Bronowski
+
+Enjoyable read on the evolution of people.
+
+In the last chapters tries to draw links between differences from people to animals which justifies the human evolution.
+- Male and Female are relatively similar in size so partnership becomes more important and woman selecting men is what has driven human mind evolution and ingenuity.
+- Humans copulate facing each other suggests that relationship becomes more important
+
+Trying to say that cooperation/empathy enable human mind to be selected
+(Almost suggests we as we have domesticated livestock could we evolve other species (dogs) to move towards human intelligence)
+
 ## 2026-09-13 Mindware
 Richard Nisbett
 
+Great book. Talks about all the short comings in human thinking, research and manipulation.
 
 
 ## 2026-09-10 Wise Animals

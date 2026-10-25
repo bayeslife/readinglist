@@ -23,6 +23,13 @@
 ## Books
 Books I have read with comments and notes.
 
+## 2026-10-20 Tyranny of Merit
+Michael J Sandel
+
+This book describes how the democratic party has moved closer to traditional conversative views.
+While traditionally they represent the egalitarian viewpoint they came to represent equal opportunity but ultimately meritocracy.
+The elitism that resulted from those who believed it was their merit rather than their situation  which provided their success implictly impacted those on the lower end of the social hierarhy to seek alternatives. So while those on the lower end would traditionally voted democratic they revolted to the conservative viewpoint.
+
 ## 2026-10-05 These Strange New Minds
 Chrisopher Summerfield
 

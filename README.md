@@ -32,7 +32,7 @@ Very nice review of history of science of
 - theory of atoms
 - DNA
 - nutrition
-
+And related to biases that held up the take up of ideas
 
 ## 2026-10-20 Tyranny of Merit
 Michael J Sandel

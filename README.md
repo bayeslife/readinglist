@@ -23,6 +23,17 @@
 ## Books
 Books I have read with comments and notes.
 
+## 2026-11-08 What has gottent into us
+Dan Levitt
+
+Very nice review of history of science of
+- the big bang
+- history of earth
+- theory of atoms
+- DNA
+- nutrition
+
+
 ## 2026-10-20 Tyranny of Merit
 Michael J Sandel
 

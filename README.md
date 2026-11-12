@@ -23,7 +23,16 @@
 ## Books
 Books I have read with comments and notes.
 
-## 2026-11-08 What has gottent into us
+## 2026-11-12 The Social Instinct: How Cooperation Shaped The World
+Nichola Raihani
+
+Very interesting book which explains a lot of human behavior and describes behaviours seen in the animal/plant kingdom.
+Links the evolution of cooperation back to our self genes and shows how various human experiences related.
+Talks about the Ultimatum Game, The Dictator Game, The Public Goods Game, The trust game, The 3rd party punishment game.
+
+Describes how repricocity does not explain higher level cooperation with strangers. She indicates that altruism is a signaling of worthiness to others which confers benefits ultimately to our genes.
+
+## 2026-11-08 What has gotten into you
 Dan Levitt
 
 Very nice review of history of science of
